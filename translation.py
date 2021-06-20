@@ -24,12 +24,12 @@ Type /help for more details."""
     DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Custom thumbnail cleared succesfully."
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "✅ Media cleared succesfully."
     SAVED_RECVD_DOC_FILE = "Document Downloaded Successfully."
-    CUSTOM_CAPTION_UL_FILE = "@renamer_Ns_bot"
+    CUSTOM_CAPTION_UL_FILE = "@amithleo10"
     NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom ThumbNail found."
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
     HELP_USER = """Hai <b><i>{}</i></b>, 
 
-I am Renamer bot ✍ by <a href='https://t.me/{}'>My Father 👨‍🏫</a>
+I am Renamer bot ✍ by <a href='https://t.me/{}'>My Father 👨‍🏫 [Amith Leo](https://t.me/amithleo10
     
 1. Send Me A Thumbnail.
 
